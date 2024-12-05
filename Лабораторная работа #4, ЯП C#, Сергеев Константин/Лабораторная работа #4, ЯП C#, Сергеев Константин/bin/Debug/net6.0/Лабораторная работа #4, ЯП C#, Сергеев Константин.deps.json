@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Лабораторная работа #4, ЯП C#, Сергеев Константин/1.0.0": {
+        "runtime": {
+          "Лабораторная работа #4, ЯП C#, Сергеев Константин.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Лабораторная работа #4, ЯП C#, Сергеев Константин/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
